@@ -6,7 +6,7 @@ window.WAGIE_CFG = {
   CHAIN:  "solana",
   PAD:    "stonkfun",   // stonkfun | pumpfun
   PAIR:   "MCD",        // quote token, shown as $MCDx (hidden on pumpfun)
-  X:      "",
+  X:      "https://x.com/wagieflips",
   BUY:    "",           // optional override
   CHART:  ""            // optional override
 };
